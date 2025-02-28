@@ -25,7 +25,7 @@ def solve_math(update: Update, context: CallbackContext) -> None:
 
 def main() -> None:
     # Вставьте сюда ваш токен
-    updater = Updater("YOUR_TELEGRAM_BOT_TOKEN")
+    updater = Updater("7603215514:AAHanVMz4teSp1pQq4tgG1P_3OyHteCn1HQ")
 
     # Получаем диспетчер для регистрации обработчиков
     dp = updater.dispatcher
