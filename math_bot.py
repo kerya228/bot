@@ -1,4 +1,4 @@
-math_bot.py
+python math_bot.py
 pip install python-telegram-bot sympy
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
